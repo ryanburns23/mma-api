@@ -26,6 +26,6 @@
   "dependencies": {
     "google": "^1.4.0",
     "sherdog": "^0.1.4",
-    "ufc": "^0.1.1"
+    "ufc": "git+https://github.com/ryanburns23/ufc-api.git"
   }
 }
